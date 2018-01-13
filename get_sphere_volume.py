@@ -16,5 +16,5 @@ def calc_sphere_volume(diameter):
 diameter = 12
 
 # print final volume of sphere for given diameter
-print ("Volume of sphere for diameter 12 cms : ", calc_sphere_volume(diameter), " cubic centimetre")
+print ("Volume of sphere for diameter ", diameter , "cms : ", calc_sphere_volume(diameter), " cubic centimetre")
 
